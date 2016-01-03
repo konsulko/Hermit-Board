@@ -22,3 +22,11 @@ Changes from v3 to v4
 * Change buffer host side power supply from +5V rail to VCC
 * Add VCC power plane
 * Add pullup resistors to host side
+
+Changes from v4 to v5
+=====================
+
+* Move host pullups to top side
+* Add M2 screwholes
+* Slightly cleanups to part placement
+* Increase drill hole size for BNC connector
