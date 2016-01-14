@@ -1,0 +1,28 @@
+Partlist
+
+Exported from Hermit Board Rev A6.brd at 1/14/16 12:34 AM
+
+EAGLE Version 6.6.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part      Value          Package              Library             Position (mm)         Orientation
+
+ATLAS_IC  ATLAS-OEM      ATLAS-OEM            mranostay           (29.845 13.6525)      R180
+C1        100nF          0805                 SparkFun-Capacitors (20.32 28.2575)       R180
+C2        100nF          0805                 SparkFun-Capacitors (28.575 26.9875)      R270
+C3        10uF           0805                 SparkFun-Capacitors (37.465 22.225)       R90
+C4        10uF           0805                 SparkFun-Capacitors (39.0525 22.225)      R90
+C5        100nF          0805                 SparkFun-Capacitors (9.525 25.0825)       R270
+C6        100nF          0805                 SparkFun-Capacitors (21.2725 19.3675)     R90
+MCP1755T  MCP1755T       SOT-23-5             mranostay           (32.385 24.13)        R180
+R1        4.7k           0805                 SparkFun-Passives   (11.7475 7.3025)      R90
+R2        4.7k           0805                 SparkFun-Passives   (9.8425 7.3025)       R90
+R3        4.7k           0805                 SparkFun-Passives   (7.9375 7.3025)       R90
+R4        4.7k           0805                 SparkFun-Passives   (15.875 8.5725)       R90
+R5        4.7k           0805                 SparkFun-Passives   (26.9875 20.32)       R270
+R6        4.7k           0805                 SparkFun-Passives   (28.575 20.32)        R270
+ROE-0505S ROE-0505S      SIP4                 mranostay           (20.955 31.4325)      R0
+SI8605    SI8605         SOIC16-1.27-10X3.9MM mranostay           (14.605 17.4625)      R270
+U$1                      1X10                 SparkFun-Connectors (4.445 31.4325)       R270
+U$2       BNCPTH         BNC                  mranostay           (42.545 12.3825)      R270

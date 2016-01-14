@@ -30,3 +30,8 @@ Changes from v4 to v5
 * Add M2 screwholes
 * Slightly cleanups to part placement
 * Increase drill hole size for BNC connector
+
+Changes from v5 to v6
+=====================
+
+* Corrected footprint for Atlas part
