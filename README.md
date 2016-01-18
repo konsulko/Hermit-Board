@@ -34,4 +34,5 @@ Changes from v4 to v5
 Changes from v5 to v6
 =====================
 
+* IMPORTANT NOTE: Do not populate the pullups R2 and R5 since INT is actually driven
 * Corrected footprint for Atlas part
