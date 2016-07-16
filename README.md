@@ -3,6 +3,10 @@ Hermit Board
 
 This is an isolator board meant for use with Atlas Scientific OEM boards.
 
+* IMPORTANT NOTE: will unlikely work for the electroconductivity sensor due to
+  the requirement the isolated ground plane to run under at least half of the
+  sensor IC.
+
 Pin mapping:
 
 + Pin 1 - 5V
